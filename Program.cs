@@ -64,11 +64,11 @@ namespace Recuperacion_4_FAOG
                             break;
                     }
                 }
-                else
+               else
                 {
                     Console.WriteLine("Ingrese un número válido.");
                 }
-            }
+            } 
         }
 
        
